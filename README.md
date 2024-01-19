@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Olaf
 
-I made this project just for fun
+I'm 2nd year student at the University of Silesia in Katowice in the field of computer science. I have also been studying on my own for over 3 years. I have done many courses like cs50, cs50P and some freecodecamp courses.
 
 Skills: PYTHON / SQL / GIT / BASH / JAVA / C / JS / HTML / CSS 
 
@@ -8,6 +8,7 @@ Skills: PYTHON / SQL / GIT / BASH / JAVA / C / JS / HTML / CSS
 - 💬 Ask me about anything 
 - ⚡ Hobbys: f1🏎️, tennis🎾, other sports⚽, games🎮, technology💻
 - 📫 How to reach me: szyncelolaf@gmail.com
+- 🗺️ Location: Kraków / Katowice
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olafszyncel)](https://github.com/anuraghazra/github-readme-stats)
 
