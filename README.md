@@ -1,12 +1,13 @@
 ### Hi there 👋, my name is Olaf
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+I made this project just for fun
 
 Skills: PYTHON / SQL / GIT / BASH / JAVA / C / JS / HTML / CSS 
 
 - 🌱 I’m currently learning Data Science 
 - 💬 Ask me about anything 
-- ⚡ Fun fact: f1, tennis, other sports, games, technology 
+- ⚡ Hobbys: f1🏎️, tennis🎾, other sports⚽, games🎮, technology💻
+- 📫 How to reach me: szyncelolaf@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olafszyncel)](https://github.com/anuraghazra/github-readme-stats)
 
