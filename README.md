@@ -1,4 +1,18 @@
-### Hi there 👋
+### Hi there 👋, my name is Olaf
+
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+
+Skills: PYTHON / SQL / GIT / BASH / JAVA / C / JS / HTML / CSS 
+
+- 🌱 I’m currently learning Data Science 
+- 💬 Ask me about anything 
+- ⚡ Fun fact: f1, tennis, other sports, games, technology 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/olafszyncel)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olafszyncel)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **olafszyncel/olafszyncel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
