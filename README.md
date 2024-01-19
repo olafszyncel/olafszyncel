@@ -2,7 +2,7 @@
 
 I'm 2nd year student at the University of Silesia in Katowice in the field of computer science. I have also been studying on my own for over 3 years. I have done many courses like cs50, cs50P and some freecodecamp courses.
 
-Skills: PYTHON / SQL / GIT / BASH / JAVA /
+Main Skills: PYTHON / SQL / GIT / BASH / 
 
 - 🌱 I’m currently learning Data Science 
 - 💬 Ask me about anything 
