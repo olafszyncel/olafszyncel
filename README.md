@@ -8,7 +8,7 @@ Skills: PYTHON / SQL / GIT / BASH / JAVA /
 - 💬 Ask me about anything 
 - ⚡ Hobbys: f1🏎️, tennis🎾, other sports⚽, games🎮, technology💻
 - 📫 How to reach me: szyncelolaf@gmail.com
-- 🗺️ Location: Kraków / Katowice
+- 🗺️ Location: Kraków / Katowice, Poland
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olafszyncel)](https://github.com/anuraghazra/github-readme-stats)
 
